@@ -117,7 +117,7 @@
    <text xml:lang="lat">
       <body>
          <div type="questions">
-            <pb facs="tcp:152310:1" rendition="simple:additions"/>
+            <pb facs="tcp:152310:1"/>
             <head>QUAESTIONES IN SACRA THEOLOGIA DISCUTIENDAE OXONII IN VESPERIIS <hi>
                   <g ref="char:V">Ʋ</g>ndecimo Die Menſis Julii</hi> Anno Dom: 1663.</head>
             <div n="theology" type="questions">
@@ -182,7 +182,7 @@
                </byline>
             </div>
             <div n="theology" type="questions">
-               <pb facs="tcp:152310:2_of_WO945"/>
+               <pb facs="tcp:152310:2"/>
                <!-- PDF PAGE 18 -->
                <head>QUAESTIONES IN SACRA THEOLOGIA DISCUTIENDAE <hi>OXONII</hi> IN COMITIIS Decimo tertio Die Menſis <hi>Julii</hi> An. Dom. 1663.</head>
                <p>An Rex in Regno ſuo ſit Solo Deo minor? <hi>Aff.</hi>
@@ -236,7 +236,7 @@
          </div>
       </body>
       <back>
-         <div type="imprimatur">
+         <div type="colophon">
             <p>
                <hi>OXONIAE,</hi> Typis <hi>LICHFIELDIANIS</hi> Academiae Typog. An. Dom. 1663.</p>
          </div>
